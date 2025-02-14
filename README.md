@@ -1,7 +1,13 @@
 # ai-starter
+Trường Lê Hồng Phong, TP.HCM, Việt Nam
+[2024-09] AI CLASS
+Giảng viên: Đỗ Như Tài
+Học sinh: Lý Phú Kiệt
+Nội dung: Làm qune với AI
+### App-Inventor
 
-### Summary
+### Tham Khảo
 
-My resume I made using plain HTML5 & CSS.
-https://rjbasitali.github.io/
+### Thông tin cá nhân 
+Lý Phú Kiệt
 
